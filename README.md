@@ -8,7 +8,7 @@ Year
    |->phone1.jpg
    |->phone2.jpg
    |->phone3.jpg
-Examples:
+   Examples:
 
 2017
 |
@@ -18,7 +18,7 @@ Examples:
      | -> photos2.jpg
 Useful commands:
 
-ls
-cat
-for loop
-echo
+* ls
+* cat
+* for loop
+* echo
